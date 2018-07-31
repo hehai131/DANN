@@ -2,7 +2,7 @@
 This is a implementation of [Domain-Adversarial Training of Neural Networks][1] with pytorch.
 
 ## Dataset
-In this work, Mnist, Mnist-m, and svhn digitals dataset is used to train our network. You can get the dataset by yourself.
+In this work, Mnist, Mnist-m, svhn digitals dataset and office-31 dataset is used to train our network. You can get the dataset by yourself.
 
 ## experiment
 
